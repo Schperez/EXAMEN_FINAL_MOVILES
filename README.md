@@ -3,6 +3,7 @@ Integrantes del equipo:
   - SERGIO URIEL PEREZ PADILLA
   - AARON MEDRANO MARQUEZ
   - JORGE EDUARDO DAVILA GARCIA
+  - JUAN GILBERTO PRADO MATEHUALA
 
   - Introducción del proyecto
 
